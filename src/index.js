@@ -9,7 +9,6 @@ $(document).ready(function() {
     event.preventDefault();
     const length1 = $('#age').val();
     const triangle = new Age(calculatedUserInput)
-    const response = triangle.checkType();
-    $('#response').append("<p>" + response + "</p>");
+    $('#response').append("On " + planet + ", you're " + age + " years old!");
   });
 });
