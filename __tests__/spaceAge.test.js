@@ -4,9 +4,9 @@ describe('Age Calculator', () => {
 
   test('should return user input with multiplied result for age on Mercury', () => {
     const planetAge = new Age();
-    expect(age).mercury).toEqual(age*0.24);
+    expect(age).mercury.toEqual(age*0.24);
   }
-  });
+  );
 
   const age = $("#age").val();
 

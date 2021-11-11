@@ -39,7 +39,7 @@ _{A website designed to showcase competencies in test-driven development, and en
 
 ## Known Bugs
 
-* _Project is not in a functioning state yet_
+* _Project is not in a functioning state at time of publishing_
 
 #
 
@@ -52,7 +52,3 @@ Copyright (c) 2021 Ethan Bear
 ## Contact Information
 
 Ethan Bear <a href="mailto:ehwbear@icloud.com">ehwbear@icloud.com</a>
-
-
-#### Notes to self:
-
