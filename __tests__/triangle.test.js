@@ -1,12 +1,10 @@
 import Triangle from './../src/triangle.js';
 
-describe('Triangle', () => {
+describe('Age Calculator', () => {
 
-  test('should correctly create a triangle object with three lengths', () => {
-    const triangle = new Triangle(2,4,5);
+  test('should return user input with multiplied result for age on Mercury', () => {
+    const planetAge = new Age();
     expect(triangle.side1).toEqual(2);
-    expect(triangle.side2).toEqual(4);
-    expect(triangle.side3).toEqual(5);
   });
   test('should correctly determine whether three lengths are not a triangle', () => {
     const notTriangle = new Triangle(3,9,22);
