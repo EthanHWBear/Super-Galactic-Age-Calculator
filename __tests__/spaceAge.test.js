@@ -4,11 +4,14 @@ describe('Age Calculator', () => {
 
   test('should return user input with multiplied result for age on Mercury', () => {
     const planetAge = new Age();
-    expect(userInput).mercury).toEqual(userInput*0.24);
+    expect(age).mercury).toEqual(age*0.24);
+    function spaceAge (age) {
+      return parseFloat(age*2)
+  }
   });
 
 
-  
+
   // test('should correctly determine whether three lengths are not a triangle', () => {
   //   const notTriangle = new Triangle(3,9,22);
   //   expect(notTriangle.checkType()).toEqual("not a triangle");
