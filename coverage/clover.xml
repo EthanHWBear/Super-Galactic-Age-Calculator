@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1636672350043" clover="3.2.0">
-  <project timestamp="1636672350043" name="All files">
+<coverage generated="1636676354120" clover="3.2.0">
+  <project timestamp="1636676354120" name="All files">
     <metrics statements="8" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0" elements="10" coveredelements="1" complexity="0" loc="8" ncloc="8" packages="1" files="1" classes="1"/>
     <file name="spaceAge.js" path="/Users/ethanbear/coding/galactic/src/spaceAge.js">
       <metrics statements="8" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>

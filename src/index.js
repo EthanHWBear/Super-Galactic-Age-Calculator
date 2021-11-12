@@ -12,3 +12,4 @@ $(document).ready(function() {
     $('#response').append("On " + planet + ", you're " + age + " years old!");
   });
 });
+
